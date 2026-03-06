@@ -71,6 +71,7 @@ button, .btn{
 
 .list-item {
     background: none;
+    border-color: var(--color-text-white);
 }
 
 .list-item:hover, button:hover, .btn:hover{
@@ -79,8 +80,9 @@ button, .btn{
 }
 
 .list-item.disabled{
-    opacity: .3;
+    opacity: .5;
     cursor: not-allowed;
+    border-color: var(--color-border);
 }
 .list-item.disabled:hover{
     scale: 1;
