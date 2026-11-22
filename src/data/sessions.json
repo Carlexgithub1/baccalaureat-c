@@ -4,60 +4,74 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
+                "title": "Maths",
                 "link": ""
             },
             {
                 "id":2,
-                "title": "Physique",
+                "title": "Physique théorique",
                 "link": ""
             },
             {
                 "id":3,
-                "title": "Anglais",
+                "title": "Physique pratique",
                 "link": ""
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
+                "title": "Chimie théorique",
                 "link": ""
             },
             {
                 "id":5,
-                "title": "Informatique",
+                "title": "Chimie pratique",
                 "link": ""
             },
             {
                 "id":6,
-                "title": "Chimie",
+                "title": "Littérature",
                 "link": ""
             },
             {
                 "id":7,
-                "title": "Litterature",
+                "title": "Langue",
                 "link": ""
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": ""
-            },
-            {
-                "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": ""
-            },
-            {
-                "id":10,
                 "title": "Philosophie",
                 "link": ""
             },
             {
+                "id":9,
+                "title": "Anglais",
+                "link": ""
+            },
+            {
+                "id":10,
+                "title": "Ecm",
+                "link": ""
+            },
+            {
                 "id":11,
-                "title": "Langue",
+                "title": "Géographie",
+                "link": ""
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": ""
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": ""
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
                 "link": ""
             }
-
         ]
     },
     {
@@ -65,57 +79,72 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
+                "title": "Maths",
                 "link": ""
             },
             {
                 "id":2,
-                "title": "Physique",
+                "title": "Physique théorique",
                 "link": ""
             },
             {
                 "id":3,
-                "title": "Anglais",
+                "title": "Physique pratique",
                 "link": ""
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
+                "title": "Chimie théorique",
                 "link": ""
             },
             {
                 "id":5,
-                "title": "Informatique",
+                "title": "Chimie pratique",
                 "link": ""
             },
             {
                 "id":6,
-                "title": "Chimie",
+                "title": "Littérature",
                 "link": ""
             },
             {
                 "id":7,
-                "title": "Litterature",
+                "title": "Langue",
                 "link": ""
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": ""
-            },
-            {
-                "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": ""
-            },
-            {
-                "id":10,
                 "title": "Philosophie",
                 "link": ""
             },
             {
+                "id":9,
+                "title": "Anglais",
+                "link": ""
+            },
+            {
+                "id":10,
+                "title": "Ecm",
+                "link": ""
+            },
+            {
                 "id":11,
-                "title": "Langue",
+                "title": "Géographie",
+                "link": ""
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": ""
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": ""
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
                 "link": ""
             }
         ]
@@ -125,57 +154,72 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
+                "title": "Maths",
                 "link": ""
             },
             {
                 "id":2,
-                "title": "Physique",
+                "title": "Physique théorique",
                 "link": ""
             },
             {
                 "id":3,
-                "title": "Anglais",
+                "title": "Physique pratique",
                 "link": ""
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
+                "title": "Chimie théorique",
                 "link": ""
             },
             {
                 "id":5,
-                "title": "Informatique",
+                "title": "Chimie pratique",
                 "link": ""
             },
             {
                 "id":6,
-                "title": "Chimie",
+                "title": "Littérature",
                 "link": ""
             },
             {
                 "id":7,
-                "title": "Litterature",
+                "title": "Langue",
                 "link": ""
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": ""
-            },
-            {
-                "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": ""
-            },
-            {
-                "id":10,
                 "title": "Philosophie",
                 "link": ""
             },
             {
+                "id":9,
+                "title": "Anglais",
+                "link": ""
+            },
+            {
+                "id":10,
+                "title": "Ecm",
+                "link": ""
+            },
+            {
                 "id":11,
-                "title": "Langue",
+                "title": "Géographie",
+                "link": ""
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": ""
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": ""
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
                 "link": ""
             }
         ]
@@ -185,57 +229,72 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
+                "title": "Maths",
                 "link": ""
             },
             {
                 "id":2,
-                "title": "Physique",
+                "title": "Physique théorique",
                 "link": ""
             },
             {
                 "id":3,
-                "title": "Anglais",
+                "title": "Physique pratique",
                 "link": ""
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
+                "title": "Chimie théorique",
                 "link": ""
             },
             {
                 "id":5,
-                "title": "Informatique",
+                "title": "Chimie pratique",
                 "link": ""
             },
             {
                 "id":6,
-                "title": "Chimie",
+                "title": "Littérature",
                 "link": ""
             },
             {
                 "id":7,
-                "title": "Litterature",
+                "title": "Langue",
                 "link": ""
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": ""
-            },
-            {
-                "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": ""
-            },
-            {
-                "id":10,
                 "title": "Philosophie",
                 "link": ""
             },
             {
+                "id":9,
+                "title": "Anglais",
+                "link": ""
+            },
+            {
+                "id":10,
+                "title": "Ecm",
+                "link": ""
+            },
+            {
                 "id":11,
-                "title": "Langue",
+                "title": "Géographie",
+                "link": ""
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": ""
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": ""
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
                 "link": ""
             }
         ]
@@ -245,57 +304,72 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
+                "title": "Maths",
                 "link": ""
             },
             {
                 "id":2,
-                "title": "Physique",
+                "title": "Physique théorique",
                 "link": ""
             },
             {
                 "id":3,
-                "title": "Anglais",
+                "title": "Physique pratique",
                 "link": ""
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
+                "title": "Chimie théorique",
                 "link": ""
             },
             {
                 "id":5,
-                "title": "Informatique",
+                "title": "Chimie pratique",
                 "link": ""
             },
             {
                 "id":6,
-                "title": "Chimie",
+                "title": "Littérature",
                 "link": ""
             },
             {
                 "id":7,
-                "title": "Litterature",
+                "title": "Langue",
                 "link": ""
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": ""
-            },
-            {
-                "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": ""
-            },
-            {
-                "id":10,
                 "title": "Philosophie",
                 "link": ""
             },
             {
+                "id":9,
+                "title": "Anglais",
+                "link": ""
+            },
+            {
+                "id":10,
+                "title": "Ecm",
+                "link": ""
+            },
+            {
                 "id":11,
-                "title": "Langue",
+                "title": "Géographie",
+                "link": ""
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": ""
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": ""
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
                 "link": ""
             }
         ]
@@ -305,58 +379,73 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
-                "link": "https://sujetsexa.com/uploads/67f27239bbc51_PROBATOIRE%202024%20%20EPREUVE%20DE%20MATHEMATIQUES%20SERIE%20C%20E%20%20REPUBLIQUE%20DU%20CAMEROUN.pdf"
+                "title": "Maths",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/MATHS-BAC-C-E-2024.pdf"
             },
             {
                 "id":2,
-                "title": "Physique",
-                "link": "https://sujetexa.com/wp-content/uploads/2024/06/PHYSIQUE-PROB-C-E-2024.pdf"
+                "title": "Physique théorique",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/PHYSIQUE-TH%C3%89ORIQUE-BAC-C-2024.pdf"
             },
             {
                 "id":3,
-                "title": "Anglais",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/37116-probatoire-2024-epreuve-d-anglais-serie-a-c-d-e-ti-cameroun/download"
+                "title": "Physique pratique",
+                "link": ""
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/35839-sujet-2024-probatoire-svteehb-serie-c-ti/download"
+                "title": "Chimie théorique",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/CHIMIE-TH%C3%89ORIQUE-BACD-E-2024.pdf"
             },
             {
                 "id":5,
-                "title": "Informatique",
-                "link": "https://sujetexa.com/wp-content/uploads/2024/06/INFO-TH%C3%89ORIQUE-PROB-C-D-E-2024.pdf"
+                "title": "Chimie pratique",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/CHIMIE-PRATIQUE-BAC-C-D-2024.pdf"
             },
             {
                 "id":6,
-                "title": "Chimie",
-                "link": "https://sujetexa.com/wp-content/uploads/2024/06/CHIMIE-PROB-C-D-2024.pdf"
+                "title": "Littérature",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/07/BAC-C-E-2024-LITTERATURE-FRAN%C3%A7AISE.pdf"
             },
             {
                 "id":7,
-                "title": "Litterature",
-                "link": "https://sujetsexa.com/uploads/67f27132bc7d4_PROBATOIRE%202024%20EPREUVE%20DE%20%20LITTERATURE%20SERIE%20C-D-TI%20%20REPUBLIQUE%20DU%20CAMEROUN.pdf"
+                "title": "Langue",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/07/BAC-C-E-2024-LANGUE-FRAN%C3%A7AISE.pdf"
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": "https://sujetexa.com/wp-content/uploads/2024/06/no24_15_juin_2024_sujetexa.com_.pdf"
+                "title": "Philosophie",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/07/BAC-D-2024-PHILOSOPHIE.pdf"
             },
             {
                 "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/37239-probatoire-2024-epreuve-et-corrige-d-ecm-serie-a-c-d-e-ti-cameroun/download"
+                "title": "Anglais",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/11/ANGLAIS_plus_corri_BACCALAUREAT-SERIE-CDETI-SESSION2024.pdf"
             },
             {
                 "id":10,
-                "title": "Philosophie",
-                "link": "https://sujetexa.com/wp-content/uploads/2024/06/no1_13_juin_2024_sujetexa.com_.pdf"
+                "title": "Ecm",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/ECM-BAC-A-C-D-E-TI-2024.pdf"
             },
             {
                 "id":11,
-                "title": "Langue",
-                "link": "https://sujetexa.com/wp-content/uploads/2024/06/no19_15_juin_2024_sujetexa.com_.pdf"
+                "title": "Géographie",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/G%C3%89OGRAPHIE-BAC-C-D-TI-2024.pdf"
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/05/INFO2024.pdf"
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/07/BAC-C-TI-2024-SVTEEHB-THEORIQUE.pdf"
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
+                "link": "https://sujetexa.com/wp-content/uploads/2024/06/no11_01_BAC_A_2024_sujetexa.com_.pdf"
             }
         ]
     },
@@ -365,64 +454,149 @@
         "papers":[
             {
                 "id":1,
-                "title": "Mathematiques",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39822-epreuve-de-mathematiques-probatoire-2025-series-c-e-cameroun/download"
+                "title": "Maths",
+                "link": "https://ecolesaucameroun.com/images/epreuves/MATHS-BAC-C-E-2025-CAMEROUN.pdf"
             },
             {
                 "id":2,
-                "title": "Physique",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39353-sujet-et-corrige-anglais-probatoire-a-c-d-ti-epreuve-zero-region-de-l-adamawa-2025/download"
+                "title": "Physique théorique",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-C-PHY-2025.pdf"
             },
             {
                 "id":3,
-                "title": "Anglais",
-                "link": "https://sujetexa.com/wp-content/uploads/2025/06/ANGLACORRI.pdf"
+                "title": "Physique pratique",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-C-2025-PHYSIQUE-PRATIQUE.pdf"
             },
             {
                 "id":4,
-                "title": "Sciences de la vie et de la terre (SVT)",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39354-epreuve-zero-svteehb-probatoire-c-ti-region-de-l-adamawa-2025"
+                "title": "Chimie théorique",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CDE-2025-CHIMIE-THEORIQUE.pdf"
             },
             {
                 "id":5,
-                "title": "Informatique",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39741-epreuve-theorique-d-informatique-probatoire-series-c-d-e-session-2025-cameroun/download"
+                "title": "Chimie pratique",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CD-2025-CHIMIE-PRATIQUE.pdf"
             },
             {
                 "id":6,
-                "title": "Chimie",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39734-epreuve-de-chimie-probatoire-series-c-d-e-session-2025-cameroun/download"
+                "title": "Littérature",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CDE-TI-LITTERATURE.pdf"
             },
             {
                 "id":7,
-                "title": "Litterature",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39736-epreuve-de-litterature-et-culture-generale-probatoire-series-c-d-e-ti-session-2025/download"
+                "title": "Langue",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CDE-TI-2025-LANGUE-FRANCAISE.pdf"
             },
             {
                 "id":8,
-                "title": "Histoire",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39747-epreuve-d-histoire-probatoire-series-c-d-ti-session-2025-cameroun/download"
+                "title": "Philosophie",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CDE-TI-2025-PHILOSOPHIE.pdf"
             },
             {
                 "id":9,
-                "title": "Éducation à la Citoyenneté et à la Morale (ECM)",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39192-probatoire-2025-epreuve-zero-ecm-cameroun-serie-a-c-d-ti-sh/download"
+                "title": "Anglais",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CDE-TI-2025-ANGLAIS.pdf"
             },
             {
                 "id":10,
-                "title": "Philosophie",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39745-epreuve-de-philosophie-probatoire-series-c-d-e-ti-session-2025-cameroun/download"
+                "title": "Ecm",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/07/ECM.pdf"
             },
             {
                 "id":11,
-                "title": "Langue",
-                "link": "https://epreuvesetcorriges.com/categories/cameroun/examens/probatoire/39735-epreuve-de-langue-francaise-probatoire-series-c-d-e-ti-session-2025/download"
+                "title": "Géographie",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CD-TI-2025-GEOGRAPHIE.pdf"
             },
             {
-                "id":11,
-                "title": ".Toutes les epreuves du Probatoire C - 2025",
-                "link": "https://drive.google.com/file/d/1dEtKLJPkfUzhaqsVwWUWPQsyNWlYLEpq/view?usp=drive_link"
+                "id":12,
+                "title": "Informatique",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-CDE-2025-INFO-THEORIQUE.pdf"
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/BAC-C-TI-2025-SVTEEHB.pdf"
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
+                "link": "https://sujetexa.com/wp-content/uploads/2025/06/no1_02_juin_2025_sujetexa.com_.pdf"
             }
         ]
-    }    
+    },
+    {
+        "session": 2026,
+        "papers":[
+            {
+                "id":1,
+                "title": "Maths",
+                "link": ""
+            },
+            {
+                "id":2,
+                "title": "Physique théorique",
+                "link": ""
+            },
+            {
+                "id":3,
+                "title": "Physique pratique",
+                "link": ""
+            },
+            {
+                "id":4,
+                "title": "Chimie théorique",
+                "link": ""
+            },
+            {
+                "id":5,
+                "title": "Chimie pratique",
+                "link": ""
+            },
+            {
+                "id":6,
+                "title": "Littérature",
+                "link": ""
+            },
+            {
+                "id":7,
+                "title": "Langue",
+                "link": ""
+            },
+            {
+                "id":8,
+                "title": "Philosophie",
+                "link": ""
+            },
+            {
+                "id":9,
+                "title": "Anglais",
+                "link": ""
+            },
+            {
+                "id":10,
+                "title": "Ecm",
+                "link": ""
+            },
+            {
+                "id":11,
+                "title": "Géographie",
+                "link": ""
+            },
+            {
+                "id":12,
+                "title": "Informatique",
+                "link": ""
+            },
+            {
+                "id":13,
+                "title": "SVT",
+                "link": ""
+            },
+            {
+                "id":14,
+                "title": "Épreuves facultatives",
+                "link": ""
+            }
+        ]
+    }
 ]
